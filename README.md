@@ -1,4 +1,4 @@
-### 1. Configure Unity for Version Control\*\*
+### 1. Configure Unity for Version Control\*\* for Unity version below 2022.*
 
 1. Open the editor settings window.
 
