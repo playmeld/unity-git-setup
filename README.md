@@ -50,7 +50,7 @@ Copy `.gitattributes` file to your repository.
 
 ### 5. Setup pre-commit hook
 
-Copy `pre-commit` file into `.git/hooks` foler
+Copy `pre-commit` file into `.git/hooks` folder
 This hook prevents large text files from being added to commit - https://stackoverflow.com/questions/53690327/prevent-large-text-file-from-being-added-to-commit-when-using-github/53692461#53692461
 
 ### Based on
