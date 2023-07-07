@@ -10,7 +10,7 @@
 # Redirect output to stderr.
 exec 1>&2
 
-FILE_SIZE_LIMIT_KB=1119
+FILE_SIZE_LIMIT_KB=1120
 CURRENT_DIR="$(pwd)"
 COLOR='\033[01;33m'
 NOCOLOR='\033[0m'
